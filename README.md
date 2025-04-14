@@ -2,6 +2,7 @@
 I'm J'Brian, a passionate JavaScript Fullstack Developer.
 
 💻 Current Stack
+
 const currentStack = {
   frontend: ['NextJs', 'SASS', 'Tailwind CSS',  'ShadCn'],
   backend: ['NextJs', 'NodeJS'],
