@@ -1,4 +1,5 @@
-👋 Hello,
+👋 Hello
+
 I'm J'Brian, a passionate JavaScript Fullstack Developer.
 
 💻 Current Stack
